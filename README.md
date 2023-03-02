@@ -6,15 +6,17 @@ This is a simple Pomodoro Timer application built with React.js. It allows you t
 
 To get started, you can clone this repository to your local machine and install the dependencies using npm:
 
-#####
+```
 git clone https://github.com/your-username/pomodoro-timer.git
 cd pomodoro-timer
 npm install
-
+```
 
 You can then start the development server using:
 
-#### npm start
+```
+npm start
+```
 
 ## Usage
 
